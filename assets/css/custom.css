@@ -1,0 +1,11 @@
+.btn-add{
+  padding: 8px !important;
+}
+hr {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+.form-horizontal .form-group {
+    margin-left: unset;
+    margin-right: unset;
+}
